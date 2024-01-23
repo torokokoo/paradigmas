@@ -1,0 +1,14 @@
+*.ss~
+*.ss#*
+.#*.ss
+
+*.scm~
+*.scm#*
+.#*.scm
+
+*.rkt~
+pruebas.rkt
+/compiled
+
+*.DS_Store
+*.docx
