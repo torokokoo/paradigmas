@@ -33,6 +33,7 @@ Dentro de estas carpetas encontraras otro `README.md` especifico para cada uno, 
 Puedes echarle un vistazo a los siguientes recursos y repositorios:
 - [Paradigmas de la la Programación](https://github.com/devasty/paradigmas-de-la-programacion) por [Bastian Escribano](https://github.com/devasty)
 - [USACH/Paradigmas de la Programación](https://github.com/charagender/USACH/tree/main/Paradigmas%20de%20la%20Programación) por [charagender](https://github.com/charagender)
+- [Lab 1](https://github.com/agustinsaavedra2/lab1_20677670_SaavedraOlmos) y [Lab 2](https://github.com/agustinsaavedra2/lab2_20677670_SaavedraOlmos) por [Agustin Saavedra](https://github.com/agustinsaavedra2)
 
 ## 📫 Contacto
 
